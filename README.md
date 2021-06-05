@@ -53,8 +53,8 @@ There are three classifier comparisions file in the repository:
 
 ### Plots:
 * The classifier_comparison.py can be used with any of the files. It uses a list of classifiers, a list of the names of the classifiers, a list of the dataset paths. and it plots all the classifiers against each other for each dataset. This file needs to be called from inside of one of the above mentioned files.
-* The svm_comparison.py takes plots the performance of different SVMs for our dataset.
-  This file can be run using `python svm_comparison.py`
+* The svm_comparison.py takes plots the performance of different SVMs for our dataset. This file can be run using `python svm_comparison.py`
+* The ROC_SVM.py files plots an ROC-AUC Curve for different SVMs over the dataset. This file can be run using `python ROC_SVM.py
 
 ### Grid Search:
 GridSearch.py demonstrates an example of using grid search over an algorithm. It uses SVM and then compares several different kernels with several different parameters and then displays the best parameters and the best score at the end.
