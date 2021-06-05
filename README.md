@@ -6,18 +6,25 @@ The algorithms Accuracy, Specificity, Sensitivity and F1-score are calculated an
 
 ### Dataset 
 The following are the [datasets](https://scikit-learn.org/stable/datasets/sample_generators.html) that are being used in this experiment:
+
 Circles0.3: 
-![alt text](https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/circles0.3.csv.png)
+<img src="https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/circles0.3.csv.png" width="320" height="240">
+
 halfkernel: 
-![alt text](https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/halfkernel.csv.png)
+<img src="https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/halfkernel.csv.png" width="320" height="240">
+
 moons1: 
-![alt text](https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/moons1.csv.png)
+<img src="https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/moons1.csv.png" width="320" height="240">
+
 spiral1: 
-![alt text](https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/spiral1.csv.png)
+<img src="https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/spiral1.csv.png" width="320" height="240">
+
 twoguassians33: 
-![alt text](https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/twoguassians33.csv.png)
+<img src="https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/twogaussians33.csv.png" width="320" height="240">
+
 twoguassians42: 
-![alt text](https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/twoguassians42.csv.png)
+<img src="https://github.com/M-MoeedKhalid/machine-learning-algorithms-behaviors/blob/main/dataset_plots/twogaussians42.csv.png" width="320" height="240">
+
 
 ### Code:
 To run any of the code first run:
