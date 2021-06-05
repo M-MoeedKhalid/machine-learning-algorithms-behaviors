@@ -2,7 +2,7 @@
 An elaborate project done to learn the behaviors of specific machine learning algorithms on different types of datasets.
 The algorithms Accuracy, Specificity, Sensitivity and F1-score are calculated and compared with other algorithms
 
-** This code was written to be used as a baseline for any project. **
+**This code was written to be used as a baseline for any project.**
 
 ### Dataset 
 The following are the [datasets](https://scikit-learn.org/stable/datasets/sample_generators.html) that are being used in this experiment:
